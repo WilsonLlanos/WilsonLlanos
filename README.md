@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, I'm Wil</h1>
 <h3 align="center">Data Science</h3>
 
-- 🌱 I’m currently learning **MySQL, NoSQL, Mongo and JS**
+- 🌱 I’m currently learning **Sklearn & MLflow**
 - 💬 Ask me about **Machine Learning, Databricks, Azure, SQL Server, Python & .NET**
 - 👯 I’m looking to collaborate on **In data science projects**
 - ✔ My first programming language was **Python**
