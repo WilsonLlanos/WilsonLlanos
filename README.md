@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on **In data engineering projects**
 - ✔ My first programming language was **Python**
 - 📫 How to reach me **wilson.llanos@outlook.com**
-- ❕ curiosities about me **I like football and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
