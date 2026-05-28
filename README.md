@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Wil</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Data & AI Engineer</h3>
 
 - 🌱 I’m currently learning **Sklearn & MLflow**
 - 💬 Ask me about **Machine Learning, Databricks, Azure, SQL Server, Python & .NET**
