@@ -2,8 +2,8 @@
 <h3 align="center">Data & AI Engineer</h3>
 
 - 🌱 I’m currently learning **Cloud AI Services**
-- 💬 Ask me about **RAG, Machine Learning, Databricks, Azure, SQL Server, Python & .NET**
-- 👯 I’m looking to collaborate on **In AI projects**
+- 💬 Ask me about **RAG, Databricks, Azure, SQL Server, Python & .NET, Machine Learning**
+- 👯 I’m looking to collaborate on **In Data and AI projects**
 - ✔ My first programming language was **Python**
 - 📫 How to reach me **wilson.llanos@outlook.com**
 
