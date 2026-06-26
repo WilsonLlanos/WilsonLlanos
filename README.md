@@ -1,4 +1,3 @@
-<h1 align="center">Hi everyone, I'm Wil</h1>
 <h3 align="center">Data & AI Engineer</h3>
 
 - 🌱 I’m currently learning **Cloud AI Services**
